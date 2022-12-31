@@ -62,6 +62,9 @@
 <br>
 <br>
 <p>
+  The class diagram is the main building block of object-oriented modeling. 
+  It is used for general conceptual modeling of the structure of the application,
+  and for detailed modeling, translating the models into programming code.
   <figure>
 <img src ="https://user-images.githubusercontent.com/114557942/210154786-15941613-08e2-4f33-b341-d435e15b6320.jpeg" alt="" title ="">
     <figcaption>Class Digram</figcaption>
@@ -70,6 +73,7 @@
 <br>
 <br>
 <p>
+  A sequence diagram shows process interactions arranged in time
   <figure>
 <img src ="https://user-images.githubusercontent.com/114557942/210154811-77e3edaf-4440-464f-b7ea-a08806fc751f.jpeg" alt="" title ="">
     <figcaption>Sequence Diagram for Add room use case </figcaption>
