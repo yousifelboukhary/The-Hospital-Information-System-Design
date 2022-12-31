@@ -34,14 +34,17 @@
 </p>
 <hr>
 <p>
+  A context diagram outlines how external entities [Doctor, Admin, Nurse] interact with Hospital information software system.
   <figure>
 <img src ="https://user-images.githubusercontent.com/114557942/210154650-102d4d0f-642d-4d4b-a545-b8e49fd8a0e4.PNG" alt="" title ="">
     <figcaption>Context Diagram</figcaption>
     </figure>
 <br>
 <br>
+<br>
 </p>
 <p>
+  The context diagram is broken down into various processes in 0-level DFD. At this level, we emphasize the system's primary functions.
   <figure>
 <img src ="https://user-images.githubusercontent.com/114557942/210154665-b40a3c8b-6f37-454f-ab0d-e8f0b7d5485c.jpeg" alt="" title ="">
     <figcaption>Level Zero Diagram</figcaption>
@@ -50,6 +53,7 @@
 <br>
 <br>
 <p>
+  In level 1 We break down the export data process of 0-level DFD into subprocesses. 
   <figure>
 <img src ="https://user-images.githubusercontent.com/114557942/210154717-c57f7442-4de7-4100-9a3b-557965b1abb1.jpeg" alt="" title ="">
     <figcaption>Level One Diagram</figcaption>
